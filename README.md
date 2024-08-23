@@ -1,3 +1,4 @@
+## Hi there 👋
 I'm a computer engineering student at Toronto Metropolitan University. I have a passion for programming in Python, working on Arduino projects, experimenting with electronics, and partaking in engineering competitions with my friends.
 
 
