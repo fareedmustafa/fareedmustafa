@@ -1,4 +1,8 @@
-## Hi there 👋
+I'm a computer engineering student at Toronto Metropolitan University. I have a passion for programming in Python, working on Arduino projects, experimenting with electronics, and partaking in engineering competitions with my friends.
+
+
+
+
 
 <!--
 **fareedmustafa/fareedmustafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
